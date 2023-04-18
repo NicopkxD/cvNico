@@ -1,0 +1,34 @@
+h1{
+    color: rgb(84, 2, 179);
+}
+
+ul{
+    list-style: none;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: auto;
+    font-family: 'Sedgwick Ave Display', cursive;
+    background-image: url(https://e7.pngegg.com/pngimages/436/512/png-clipart-persian-cat-pizza-kitten-lolcat-pusheen-pizza-cat-like-mammal-meme.png);
+}
+h2{
+    color: rgb(16, 16, 189);
+}
+
+.logo {
+    width: 50%;
+}
+h4{
+    color: rgb(25, 34, 156);
+}
+h5{
+    color: rgb(17, 17, 129);
+}
+
+
+
+
+
+
